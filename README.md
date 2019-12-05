@@ -4,7 +4,7 @@
 
 Sistema de gestión de exámenes finales para la UNPAZ. ABM materia,alumno y finales. Con conexion a base de datos Microsoft SQL SERVER
 
-### Technologias
+### Tecnologias
 * JavaSE8
 * Swing
 * Microsoft SQLserver
