@@ -11,11 +11,11 @@ Sistema de gestión de exámenes finales para la UNPAZ. ABM materia,alumno y fin
 
 ### Screenshot
 
-![screenshoot](https://i.ibb.co/9vC95cZ/login.jpg)
+![screenshoot](https://i.ibb.co/9nBcRGn/principal.jpg)
 
-![screenshoot](https://i.ibb.co/F7s3D1r/modulos.jpg)
+![screenshoot](https://i.ibb.co/T4Rdkfb/materiaabm.jpg)
 
-![screenshoot](https://i.ibb.co/xLFjQH8/pacientes.jpg)
+![screenshoot](https://i.ibb.co/tZdr2xC/finalesabm.jpg)
 
-![screenshoot](https://i.ibb.co/sjS3RbT/turnos.jpg)
+
 
